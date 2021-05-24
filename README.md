@@ -4,3 +4,5 @@ This repository holds the materials from our final project from Deep Learning fo
 The "Code" folder holds the code for the models we trained: ridge regression, SAC, TD3, and behavioral cloning.
 
 "Trained Agents" holds videos and gifs of the models after ~~insufficient~~ training.
+
+You can read our final report and examine the figures here as well.
