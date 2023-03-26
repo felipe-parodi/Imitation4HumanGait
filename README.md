@@ -1,4 +1,4 @@
-# Imitation Learning for Expert Gait
+# DR-Imitation Learning for Expert Gait
 *Project obsolete*
 
 This repository contains the materials from the final project for the Deep Learning for Data Science (CIS522) course at the University of Pennsylvania. The project explores the use of imitation learning to train an agent to learn human gait in a more naturalistic manner than popular reinforcement learning agents.
